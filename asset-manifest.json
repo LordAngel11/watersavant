@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/watersavant_gha/static/css/main.073c9b0a.css",
+    "main.js": "/watersavant_gha/static/js/main.b08d53f3.js",
+    "static/js/787.f055211e.chunk.js": "/watersavant_gha/static/js/787.f055211e.chunk.js",
+    "static/media/logo.svg": "/watersavant_gha/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/watersavant_gha/index.html",
+    "main.073c9b0a.css.map": "/watersavant_gha/static/css/main.073c9b0a.css.map",
+    "main.b08d53f3.js.map": "/watersavant_gha/static/js/main.b08d53f3.js.map",
+    "787.f055211e.chunk.js.map": "/watersavant_gha/static/js/787.f055211e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.b08d53f3.js"
+  ]
+}
